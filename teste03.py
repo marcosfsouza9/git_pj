@@ -1,1 +1,2 @@
-print("Hello Git. Teste 3")
+mesg = "Hello Git. Teste 3"
+print(mesg)
